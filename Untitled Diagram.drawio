@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T18:13:15.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.3" etag="8i8w73hs7dZjdLhjkCKx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T19:30:07.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="gce0oqTRO8mWY4ZIIhWf" version="24.2.3" type="github">
   <diagram name="Page-1" id="Dup1afT9n0yJMiJILod7">
-    <mxGraphModel>
+    <mxGraphModel dx="1035" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jOI26JSmEkxr80MGk08B-1" value="Malware" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jOI26JSmEkxr80MGk08B-2" value="Botnet" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jOI26JSmEkxr80MGk08B-3" value="Attacks" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="340" y="175" width="255" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="jOI26JSmEkxr80MGk08B-4" value="DoS/DDoS" style="ellipse;whiteSpace=wrap;html=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="150" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
