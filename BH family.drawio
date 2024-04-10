@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T23:25:22.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="T9zthKM53MYTBGUH-IJ1" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T22:20:16.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="MJF2AhPjb9r51nrS_ARh" version="24.2.3" type="github">
   <diagram name="Page-1" id="j0l2RVWRGB5FtL_zE_I2">
-    <mxGraphModel dx="1035" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pt1bes6IbwtNPl0ZRnzL-4" value="BHLA&lt;div&gt;device logs/&lt;/div&gt;&lt;div&gt;started 1 month ago&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="pt1bes6IbwtNPl0ZRnzL-4" value="BHLA&lt;div&gt;network device logs/&lt;/div&gt;&lt;div&gt;started 1 month ago&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="230" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pt1bes6IbwtNPl0ZRnzL-5" value="BHDP&lt;div&gt;OT/&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;models for 3 machines implemented.&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pt1bes6IbwtNPl0ZRnzL-5" value="BHDP&lt;div&gt;OT/&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;models for 3 machines implemented.&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="460" y="230" width="195" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="pt1bes6IbwtNPl0ZRnzL-2" value="BHNI&lt;div&gt;perimeter network (switches)/&lt;/div&gt;&lt;div&gt;Data access waiting from Richmond plant IT team&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pt1bes6IbwtNPl0ZRnzL-2" value="BHNI&lt;div&gt;perimeter network traffic/&lt;/div&gt;&lt;div&gt;Data access waiting from Richmond plant IT team&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="390" y="130" width="170" height="160" as="geometry" />
         </mxCell>
       </root>
