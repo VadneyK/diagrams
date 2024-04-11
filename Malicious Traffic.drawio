@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T00:08:49.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.3" etag="EHz087tvFYeq3kkziDAS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T00:14:53.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="mQnxzNf9iuS10AGvoQbM" version="24.2.3" type="github">
   <diagram name="Page-1" id="3XFXZ_c4mBn2fq71TLqU">
-    <mxGraphModel>
+    <mxGraphModel dx="1191" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m-7SRx7z9iKWSsiBIJ_J-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.2;endAngle=0.5032476092441873;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m-7SRx7z9iKWSsiBIJ_J-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.5;endAngle=0.9;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m-7SRx7z9iKWSsiBIJ_J-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.9005861848356018;endAngle=0.20361321046112885;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m-7SRx7z9iKWSsiBIJ_J-10" value="Probing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m-7SRx7z9iKWSsiBIJ_J-11" value="Interupt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m-7SRx7z9iKWSsiBIJ_J-12" value="Theft" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m-7SRx7z9iKWSsiBIJ_J-14" value="Malicious Traffic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
